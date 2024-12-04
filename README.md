@@ -1,9 +1,3 @@
-# Immunization-data-dev
-
----
-title: "Readme.md"
-output: github_document
----
 # New York City Immunization Dashboard 
 
 This repository contains data on routine vaccinations administered to New York City (NYC) children ages 0-18 years and reported to the [Citywide Immunization Registry](https://www.nyc.gov/site/doh/providers/reporting-and-services/citywide-immunization-registry-cir.page) https://www.nyc.gov/site/doh/providers/reporting-and-services/citywide-immunization-registry-cir.page (CIR). 
