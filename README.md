@@ -84,6 +84,21 @@ Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine (DTaP/DT/DTP)
   
 - Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who have received 4 or more doses of DTaP vaccine by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
 
+<span id="polio"></span>
+Poliovirus Vaccine (Polio) 
+
+- The CDC maintains updated guidelines and recommendations on poliovirus vaccination. For more information, visit: https://www.cdc.gov/polio/vaccines/index.html   
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 3 or more doses of IPV by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
+
+<span id="mmr"></span>
+Measles-Mumps-Rubella Vaccine (MMR) 
+
+- The CDC maintains updated guidelines and recommendations on MMR vaccination. For more information, visit:
+  - https://www.cdc.gov/measles/vaccines/index.html
+  - https://www.cdc.gov/mumps/vaccines/index.html
+  - https://www.cdc.gov/rubella/vaccines/index.html
+- Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received one MMR vaccine dose by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates.
+
 <span id="hib"></span>
 Haemophilus Influenzae Type b Vaccine (Hib) 
 
@@ -95,6 +110,19 @@ Hepatitis B Vaccine (HepB)
 
 - The CDC maintains updated  guidelines and vaccine recommendations on Hepatitis B vaccination. For more information, visit: https://www.cdc.gov/hepb/vaccine/index.html 
 - Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 3 doses of HepB vaccine by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
+
+<span id="var"></span>
+Varicella (chickenpox) Vaccine (VAR) 
+
+- The CDC maintains updated guidelines and vaccine recommendations on varicella vaccination. For more information, visit: https://www.cdc.gov/vaccines/varicella/index.html 
+- Vaccination Tracking: By age 24 months, children are recommended to have received at least 1 varicella vaccine dose. Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 1 dose of varicella vaccine by their 2<sup>nd</sup> birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
+
+<span id="pcv"></span>
+Pneumococcal Conjugate Vaccine (PCV) 
+
+- The CDC maintains updated guidelines and recommendations on pneumococcal vaccination. For more information, visit: https://www.cdc.gov/pneumococcal/vaccines/index.html
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received all required doses of PCV by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage Population estimates. 
+
 
 <span id="hpv"></span>
 Human Papillomavirus Vaccine (HPV) 
@@ -108,32 +136,7 @@ Influenza Vaccine (Flu)
 - The CDC maintains updated guidelines and recommendations on influenza vaccination. For more information, visit: https://www.cdc.gov/flu/vaccines/index.html 
 - Vaccination Tracking: Percent vaccinated is calculated by dividing the total number of children who received at least one seasonal influenza vaccine during the target flu season according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. Patient DOB criteria is based on the patient’s age (in days) at the time of the flu vaccination.  
 
-<span id="mmr"></span>
-Measles-Mumps-Rubella Vaccine (MMR) 
 
-- The CDC maintains updated guidelines and recommendations on MMR vaccination. For more information, visit:
-  - https://www.cdc.gov/measles/vaccines/index.html
-  - https://www.cdc.gov/mumps/vaccines/index.html
-  - https://www.cdc.gov/rubella/vaccines/index.html
-- Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received one MMR vaccine dose by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates.
-
-<span id="pcv"></span>
-Pneumococcal Conjugate Vaccine (PCV) 
-
-- The CDC maintains updated guidelines and recommendations on pneumococcal vaccination. For more information, visit: https://www.cdc.gov/pneumococcal/vaccines/index.html
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received all required doses of PCV by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage Population estimates. 
-
-<span id="polio"></span>
-Poliovirus Vaccine (Polio) 
-
-- The CDC maintains updated guidelines and recommendations on poliovirus vaccination. For more information, visit: https://www.cdc.gov/polio/vaccines/index.html   
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 3 or more doses of IPV by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
-
-<span id="var"></span>
-Varicella (chickenpox) Vaccine (VAR) 
-
-- The CDC maintains updated guidelines and vaccine recommendations on varicella vaccination. For more information, visit: https://www.cdc.gov/vaccines/varicella/index.html 
-- Vaccination Tracking: By age 24 months, children are recommended to have received at least 1 varicella vaccine dose. Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 1 dose of varicella vaccine by their 2<sup>nd</sup> birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
 
 ## Demographic Variables 
 
