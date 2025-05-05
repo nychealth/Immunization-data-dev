@@ -78,56 +78,56 @@ Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine (DTaP/DT/DTP)
 
 - The CDC maintains updated guidelines and recommendations on diphtheria, tetanus and pertussis vaccination (DTaP/DT/DTP). For more information, visit: 
 
-  - https://www.cdc.gov/vaccines/diphtheria/index.html 
-  - https://www.cdc.gov/vaccines/tetanus/index.html 
-  - https://www.cdc.gov/vaccines/pertussis/index.html 
+  - https://www.cdc.gov/diphtheria/vaccines/index.html 
+  - https://www.cdc.gov/tetanus/vaccines/index.html 
+  - https://www.cdc.gov/pertussisvaccines/index.html 
   
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who have received 4 or more doses of DTaP vaccine by their 2<sup>nd</sup> birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who have received 4 or more doses of DTaP vaccine by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
 
 <span id="hib"></span>
 Haemophilus Influenzae Type b Vaccine (Hib) 
 
-- The CDC maintains updated guidelines and vaccine recommendations on Hib vaccination. For more information, visit: https://www.cdc.gov/vaccines/hib/index.html 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received all required doses of Hib vaccine by their 2<sup>nd</sup> birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
+- The CDC maintains updated guidelines and vaccine recommendations on Hib vaccination. For more information, visit: https://www.cdc.gov/hib/vaccines/index.html 
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received all required doses of Hib vaccine by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
 
 <span id="hepb"></span>
 Hepatitis B Vaccine (HepB) 
 
-- The CDC maintains updated  guidelines and vaccine recommendations on Hepatitis B vaccination. For more information, visit: https://www.cdc.gov/vaccine/hepb/index.html 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 3 doses of HepB vaccine by their 2<sup>nd</sup> birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
+- The CDC maintains updated  guidelines and vaccine recommendations on Hepatitis B vaccination. For more information, visit: https://www.cdc.gov/hepb/vaccine/index.html 
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 3 doses of HepB vaccine by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
 
 <span id="hpv"></span>
 Human Papillomavirus Vaccine (HPV) 
 
-- The CDC maintains updated guidelines and recommendations on HPV vaccination. For more information, visit: https://www.cdc.gov/vaccines/hpv/index.html 
+- The CDC maintains updated guidelines and recommendations on HPV vaccination. For more information, visit: https://www.cdc.gov/hpv/vaccines/index.html 
 - Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 13-17-year-olds who received all required doses of HPV vaccine according to CIR, by the total number of same-aged children in that year according to the most recent Vintage Population estimates. On-time vaccination is calculated by dividing the number of 13-year-olds who completed the HPV vaccine series (with 2 or 3 doses) by their 13th birthday according to CIR, by the total number of 13-year-olds in that year according to the most recent Vintage Population estimates.  
 
 <span id="flu"></span>
 Influenza Vaccine (Flu) 
 
-- The CDC maintains updated guidelines and recommendations on influenza vaccination. For more information, visit: https://www.cdc.gov/vaccines/flu/index.html 
+- The CDC maintains updated guidelines and recommendations on influenza vaccination. For more information, visit: https://www.cdc.gov/flu/vaccines/index.html 
 - Vaccination Tracking: Percent vaccinated is calculated by dividing the total number of children who received at least one seasonal influenza vaccine during the target flu season according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. Patient DOB criteria is based on the patient’s age (in days) at the time of the flu vaccination.  
 
 <span id="mmr"></span>
 Measles-Mumps-Rubella Vaccine (MMR) 
 
 - The CDC maintains updated guidelines and recommendations on MMR vaccination. For more information, visit:
-  - https://www.cdc.gov/vaccines/measles/index.html
-  - https://www.cdc.gov/vaccines/mumps/index.html
-  - https://www.cdc.gov/vaccines/rubella/index.html
-- Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received one MMR vaccine dose by their 2<sup>nd</sup> birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates.
+  - https://www.cdc.gov/measles/vaccines/index.html
+  - https://www.cdc.gov/mumps/vaccines/index.html
+  - https://www.cdc.gov/rubella/vaccines/index.html
+- Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received one MMR vaccine dose by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates.
 
 <span id="pcv"></span>
 Pneumococcal Conjugate Vaccine (PCV) 
 
-- The CDC maintains updated guidelines and recommendations on pneumococcal vaccination. For more information, visit: https://www.cdc.gov/vaccines/pneumo/index.html 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received all required doses of PCV by their 2<sup>nd</sup> birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage Population estimates. 
+- The CDC maintains updated guidelines and recommendations on pneumococcal vaccination. For more information, visit: https://www.cdc.gov/pneumococcal/vaccines/index.html
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received all required doses of PCV by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage Population estimates. 
 
 <span id="polio"></span>
 Poliovirus Vaccine (Polio) 
 
-- The CDC maintains updated guidelines and recommendations on poliovirus vaccination. For more information, visit: https://www.cdc.gov/vaccines/polio/index.html   
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 3 or more doses of IPV by their 2<sup>nd</sup> birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
+- The CDC maintains updated guidelines and recommendations on poliovirus vaccination. For more information, visit: https://www.cdc.gov/polio/vaccines/index.html   
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 3 or more doses of IPV by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
 
 <span id="var"></span>
 Varicella (chickenpox) Vaccine (VAR) 
@@ -137,6 +137,11 @@ Varicella (chickenpox) Vaccine (VAR)
 
 ## Demographic Variables 
 
+**Race and Ethnicity**
+
+The CIR has been working with health care providers to improve capture of race/ethnicity information and the completeness of race/ethnicity data has improved over time. 
+
+The CIR collects race and Hispanic/Latino ethnicity separately. For determining vaccination coverage rates for the NYC population in this data repository, CIR combines and classifies the proportion of people vaccinated by race/ethnicity into the following mutually exclusive categories: Asian, Black/African American, Hispanic/Latino, and White. The Hispanic/Latino category includes people of any race, and all other categories exclude those who identify as Hispanic/Latino. Disaggregated information on vaccinations among people identified as American Indian/Alaska Native, Native Hawaiian or other Pacific Islander (NHPI), and two or more races are provided only as counts due to small numbers and population estimates for these groups. Race/ethnicity coverage data should be interpreted with caution when comparing to citywide coverage rates. 
 A large proportion of the vaccination data reported to the CIR come from proprietary health care provider electronic health records (EHR) systems that are not managed by the NYC Health Department. Data in the CIR are limited to what is available in EHR systems and to the fields required for submission. Information on demographics, such as race and ethnicity can be incomplete.  
 
 **ZIP Codes and ZIP Code Tabulation Areas (ZCTAs):**
@@ -150,12 +155,6 @@ The number of people vaccinated in some neighborhoods may exceed the estimated p
 Additional factors contributing to these inconsistencies may be that self-reported ZIP code at the time of vaccination may not correspond to the recipient’s primary home address. For example, people may use their work address for the purposes of vaccination. 
 
 Individuals whose addresses are not valid and, therefore, cannot be mapped to a MODZCTA are not included in the map or data download.  
-
-**Race and Ethnicity**
-
-The CIR has been working with health care providers to improve capture of race/ethnicity information and the completeness of race/ethnicity data has improved over time. 
-
-The CIR collects race and Hispanic/Latino ethnicity separately. For determining vaccination coverage rates for the NYC population in this data repository, CIR combines and classifies the proportion of people vaccinated by race/ethnicity into the following mutually exclusive categories: Asian, Black/African American, Hispanic/Latino, and White. The Hispanic/Latino category includes people of any race, and all other categories exclude those who identify as Hispanic/Latino. Disaggregated information on vaccinations among people identified as American Indian/Alaska Native, Native Hawaiian or other Pacific Islander (NHPI), and two or more races are provided only as counts due to small numbers and population estimates for these groups. Race/ethnicity coverage data should be interpreted with caution when comparing to citywide coverage rates. 
 
 **National Immunization Survey (NIS)**  
 
