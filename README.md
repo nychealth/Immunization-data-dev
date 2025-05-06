@@ -80,7 +80,7 @@ Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine (DTaP/DT/DTP)
 
   - https://www.cdc.gov/diphtheria/vaccines/index.html 
   - https://www.cdc.gov/tetanus/vaccines/index.html 
-  - https://www.cdc.gov/pertussisvaccines/index.html 
+  - https://www.cdc.gov/pertussis/vaccines/index.html 
   
 - Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who have received 4 or more doses of DTaP vaccine by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
 
@@ -102,19 +102,19 @@ Measles-Mumps-Rubella Vaccine (MMR)
 <span id="hib"></span>
 Haemophilus Influenzae Type b Vaccine (Hib) 
 
-- The CDC maintains updated guidelines and vaccine recommendations on Hib vaccination. For more information, visit: https://www.cdc.gov/hib/vaccines/index.html 
+- The CDC maintains updated guidelines and vaccine recommendations on Hib vaccination. For more information, visit: https://www.cdc.gov/hi-disease/vaccines/index.html 
 - Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received all required doses of Hib vaccine by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
 
 <span id="hepb"></span>
 Hepatitis B Vaccine (HepB) 
 
-- The CDC maintains updated  guidelines and vaccine recommendations on Hepatitis B vaccination. For more information, visit: https://www.cdc.gov/hepb/vaccine/index.html 
+- The CDC maintains updated  guidelines and vaccine recommendations on Hepatitis B vaccination. For more information, visit: https://www.cdc.gov/hepatitis-b/vaccination/index.html
 - Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 3 doses of HepB vaccine by their second birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
 
 <span id="var"></span>
 Varicella (chickenpox) Vaccine (VAR) 
 
-- The CDC maintains updated guidelines and vaccine recommendations on varicella vaccination. For more information, visit: https://www.cdc.gov/vaccines/varicella/index.html 
+- The CDC maintains updated guidelines and vaccine recommendations on varicella vaccination. For more information, visit: https://www.cdc.gov/varicella/vaccines/index.html 
 - Vaccination Tracking: By age 24 months, children are recommended to have received at least 1 varicella vaccine dose. Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 1 dose of varicella vaccine by their 2<sup>nd</sup> birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
 
 <span id="pcv"></span>
