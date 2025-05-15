@@ -161,4 +161,4 @@ This folder contains vaccination data stratified by demographic types.
 This folder contains vaccination data stratified by geographic types. 
 
 **visualizations/**
-This folder contains separate datasets for each visualization on the NYC Health Department's Childhood Vaccination Data page. Oldest datasets no longer displayed for visualizations (past eight years for trends and five years for all other visualizations) are not updated. 
+This folder contains separate datasets for each visualization on the NYC Health Department's Childhood Vaccination Data page.
