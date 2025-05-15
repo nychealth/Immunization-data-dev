@@ -9,11 +9,11 @@ These data are available on the NYC Health Department’s Childhood Vaccination 
 - How to Use This Repository 
 - Key Technical Notes 
 - Definitions 
-- Data 
+- Repository Contents 
 
 ## How to Use This Repository   
 
-Two main datasets serve as the data sources for all the visualizations displayed on the Childhood Vaccination Data page on the NYC Health webpage. one dataset is stratified by individual demographics and the other is stratified by geography. Users can download a separate dataset for each visualization by clicking ‘Get the data’ under the visualization or by downloading the full dataset under **‘Repository Content’.** The data dictionary is also available for download. 
+Two main datasets serve as the data sources for all the visualizations displayed on the Childhood Vaccination Data page on the NYC Health webpage. One dataset is stratified by individual demographics and the other is stratified by geography. Users can download a separate dataset for each visualization by clicking ‘Get the data’ under the visualization or by downloading the full dataset under **‘Repository Contents’.** The data dictionary is also available for download. 
 
 ## Key Technical Notes 
 
@@ -21,9 +21,9 @@ Two main datasets serve as the data sources for all the visualizations displayed
 
 Since 1996, the Citywide Immunization Registry (CIR) has been used as a database of patient immunization records reported by NYC health care providers and some out-of-state immunization information systems. The CIR keeps immunization records for all NYC residents – children and adults – throughout their lifespan and has records for non-NYC residents vaccinated in the city. It is accessible to authorized health care providers, schools, individuals and agencies concerned with public health to ensure that NYC residents are up to date with recommended immunizations. NYC health care providers report immunizations to the CIR as mandated by New York State Public Health Law and the NYC Health Code. Pediatric providers are required to report all immunizations administered to children 0-18 years. Reporting of adult immunizations requires patient consent. Immunization data are submitted to the CIR through electronic health record systems or the [CIR’s Online Registry](https://immunize.nyc/prod/online-registry/) user interface.
 
-**Dashboard Update Schedule**
+**Childhood Vaccination Data Update Schedule**
 
-The Childhood Vaccination Data page Immunization Dashboard displays immunization coverage data for the past five years stratified by race/ethnicity and NYC neighborhood. Additionally, trends in citywide coverage are displayed for the past eight years. Data presented on the NYC Immunization Dashboard are updated twice a year, as of June 30 and December 31 of each year. Data are released one to two months after the coverage assessment date to allow enough time for data to be reported to the CIR and prepared for public sharing. 
+The Childhood Vaccination Data page displays immunization coverage data for the past five years stratified by race/ethnicity and NYC neighborhood. Additionally, trends in citywide coverage are displayed for the past eight years. Data presented on the NYC Immunization Dashboard are updated twice a year, as of June 30 and December 31 of each year. Data are released one to two months after the coverage assessment date to allow enough time for data to be reported to the CIR and prepared for public sharing. 
 
 Data are preliminary and subject to change when new population estimates are published. 
 
@@ -49,21 +49,20 @@ Data variables:
 The NYC Health Department tracks vaccination coverage among NYC children and adolescents in several age cohorts depending on vaccine series. 
 
 - For the combined 7-vaccine series and each component vaccine, the Health Department tracks coverage for children ages 2 years by their second birthday which includes children between the ages of 24 months 0 day and 35 months 30 days as of the coverage assessment date. 
-- For HPV, the Health Department tracks HPV series completion rates for 13-year-olds by the 13th birthday to monitor on-time vaccination at ages 11-12 years, and completion rates for adolescents ages 13 to 17 years.  Adolescents ages 13 years includes adolescents between the ages of 13 years 0 day and 13 years 11 months 30 days as of the coverage assessment date. Adolescents ages 13 to 17 years includes adolescents between the ages of 13 years 0 day and 17 years 11 months 30 days as of the coverage assessment date.
+- For HPV, the Health Department tracks HPV series completion rates for 13-year-olds by the thirteenth birthday to monitor on-time vaccination at ages 11-12 years, and completion rates for adolescents ages 13 to 17 years. Adolescents ages 13 years includes adolescents between the ages of 13 years 0 day and 13 years 11 months 30 days as of the coverage assessment date. Adolescents ages 13 to 17 years includes adolescents between the ages of 13 years 0 day and 17 years 11 months 30 days as of the coverage assessment date.
 - For influenza (flu) vaccination, the Health Department tracks coverage and vaccine uptake for children ages 6-months to 4-years, 5-to-12-years and 13-to-17 years. Since the influenza season spans many months, the age criterion for the analysis is based on the child’s age (in days) at the time of the flu vaccination. The CIR calculates a child’s age days by subtracting the child’s date of birth (DOB) from the flu vaccination date. This includes children between the ages of 182 and 1,825 days (for the 6-month to 4-year-old cohort), between the ages of 1,826 and 4,747 days (for the 5-to–12-year-old cohort), and between the ages of 4,748 and 6,573 days (equivalent to ages 13-to-17-year-old cohort) as of the flu vaccination date. 
 
 **COUNT_PEOPLE_VAC** (Numerator)  
 The numerators include children in the CIR who meet the following criteria: 
 - Received all required doses of the specified vaccines 
 - Not documented in CIR as having moved or gone elsewhere: moved out of the city or deceased 
-- Had a valid NYC ZIP code listed in CIR as of the coverage assessment date  
+- Had a valid NYC ZIP code listed in CIR as of the coverage assessment date
 
 **POP_DENOMINATOR** (Denominator)
 The denominators for routine and seasonal influenza vaccination coverage estimates are based on the most recent denominators available. The NYC Health Department produces these estimates (called Vintage) using data from the U.S. Census Bureau and the NYC Department of City Planning. When new Vintage population estimates are released, vaccination coverage rates on the Childhood Vaccination Data page are adjusted accordingly using the same numerators and the new population estimates. Vaccination data using previous estimates are archived.  
-In a few cases, the number of children vaccinated may exceed the estimated population resulting in vaccination coverage exceeding 100%. This may happen with small demographic categories and geographies. Coverage rates exceeding 100% are capped at 99%. Additionally, denominators of less than 10 are suppressed in the data presented on the dashboard.
 
-**PERC_VAC**
-Vaccination coverage is determined by taking vac_count divided by pop_denominator. Vaccination coverage exceeding 99% are capped at 99%. Vaccination coverage with numerators of 9 or fewer are suppressed due to small numbers. Vaccinator coverage with numerators of 10 to 49 are reported with notation and should be interpreted with cautions. This may happen with small demographic categories and geographies. 
+**PERC_VAC** (Vaccination Rate)
+Vaccination coverage is determined by taking COUNT_PEOPLE_VAC divided by POP_DENOMINATOR. Vaccination coverage exceeding 99% are capped at 99%. Vaccination coverage with numerators less than 10 (9 or fewer) are suppressed due to small numbers. Vaccination coverage with denominators of 10 to 49 should be interpreted with caution due to small population estimates. This may happen with small demographic and geographies categories. 
 
 **VACCINE_GROUP** (Vaccine Groups) 
 
