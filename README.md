@@ -58,7 +58,7 @@ The numerators include children in the CIR who meet the following criteria:
 - Had a valid NYC ZIP code listed in CIR as of the coverage assessment date
 
 **POP_DENOMINATOR** (Denominator)  
-The denominators for routine and seasonal influenza vaccination coverage estimates are based on the most recent denominators available. The NYC Health Department produces these estimates (called Vintage) using data from the U.S. Census Bureau and the NYC Department of City Planning. When new Vintage population estimates are released, vaccination coverage rates on the Childhood Vaccination Data page are adjusted accordingly using the same numerators and the new population estimates. Vaccination data using previous estimates are archived.  
+The denominators for routine vaccination coverage and seasonal influenza vaccination coverage estimates are based on the most recent denominators available. The NYC Health Department produces these estimates (called Vintage) using data from the U.S. Census Bureau and the NYC Department of City Planning. When new Vintage population estimates are released, vaccination coverage rates on the Childhood Vaccination Data page are adjusted accordingly using the same numerators and the new population estimates. Vaccination data using previous estimates are archived. 
 
 **PERC_VAC** (Vaccination Rate)  
 Vaccination coverage is determined by taking COUNT_PEOPLE_VAC divided by POP_DENOMINATOR. Vaccination coverage exceeding 99% are capped at 99%. Vaccination coverage with numerators less than 10 (9 or fewer) are suppressed due to small numbers. Vaccination coverage with denominators of 10 to 49 should be interpreted with caution due to small population estimates. This may happen with small demographic and geographies categories. 
@@ -160,3 +160,5 @@ This folder contains vaccination data stratified by demographic types.
 **geographic /**
 This folder contains vaccination data stratified by geographic types. 
 
+**visualizations/**
+This folder contains separate datasets for each visualization on the NYC Health Department's Childhood Vaccination Data page. Oldest datasets no longer displayed for visualizations (past eight years for trends and five years for all other visualizations) are not updated. 
