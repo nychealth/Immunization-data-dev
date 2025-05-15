@@ -1,9 +1,8 @@
 # Childhood Vaccination Data 
 
-This repository contains data on routine immunizations administered to New York City (NYC) children ages 0-18 years and reported to the [Citywide Immunization Registry](nyc.gov/health/cir) (CIR). 
+This repository contains data on routine immunizations administered to New York City (NYC) children ages 0-18 years and reported to the [Citywide Immunization Registry](nyc.gov/health/cir) (CIR). These data are available on the NYC Health Department’s [Childhood Vaccination Data page](https://www.nyc.gov/site/doh/misc/sdah-boi-dashboard.page) 
 
-These data are available on the NYC Health Department’s [Childhood Vaccination Data page](https://www.nyc.gov/site/doh/misc/sdah-boi-dashboard.page) 
-<br> SUGGESTION https://www1.nyc.gov/site/doh/vaccines/vaccination-data.page. 
+SUGGESTION https://www1.nyc.gov/site/doh/vaccines/vaccination-data.page. 
 
 **This Readme includes the following topics:**
 
