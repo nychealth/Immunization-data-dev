@@ -116,7 +116,7 @@ Hepatitis B Vaccine (HepB)
 <span id="var"></span>
 Varicella (chickenpox) Vaccine (VAR) 
 
-- The CDC maintains updated guidelines and vaccine recommendations on varicella vaccination. For more information, visit: https://www.cdc.gov/varicella/vaccines/index.html 
+- The CDC maintains updated guidelines and vaccine recommendations on varicella vaccination. For more information, visit: https://www.cdc.gov/chickenpox/vaccines/index.html
 - Vaccination Tracking: By age 24 months, children are recommended to have received at least 1 varicella vaccine dose. Percent vaccinated is calculated by dividing the number of 24-35-month-olds who received 1 dose of varicella vaccine by their 2<sup>nd</sup> birthday according to CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
 
 <span id="pcv"></span>
@@ -155,15 +155,6 @@ The number of people vaccinated in some neighborhoods may exceed the estimated p
 
 Additional factors contributing to these inconsistencies may be that self-reported ZIP code at the time of vaccination may not correspond to the recipient’s primary home address. For example, people may use their school dormitory or work address. Individuals whose addresses are not valid and, therefore, cannot be mapped to a MODZCTA are not included in the maps or data download.  
 
-**National Immunization Survey (NIS)**  
-
-- The National Immunization Survey (NIS) is a telephone survey conducted by the CDC to assess immunization coverage rates among young children and teens, and track progress toward the Healthy People 2030 goals.  
-
-- Data are collected by administering telephone surveys to randomly selected households with children ages 19-35 months (NIS-Child) or 13-17 years (NIS-Teen). To ensure accuracy, each child’s medical provider is then contacted by mail to provide the child’s immunization history.  
-
-- NIS data are used to provide national, state, local area, and territorial estimates of vaccination coverage for all ACIP-recommended vaccines for children and teens in the United States. NIS coverage rates may diff from CIR coverage rates due to differences in methodology.
-
-- For more information about the NIS, visit (https://www.cdc.gov/nis/about) 
 ## Repository Contents 
 
 **demographic /**
