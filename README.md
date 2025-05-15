@@ -29,7 +29,7 @@ Data are preliminary and subject to change when new population estimates are pub
 
 ## Definitions 
 
-Types of vaccines: 
+### Types of vaccines: 
 
 - [Childhood Combined 7-Vaccine Series (≥4 DTaP, ≥3 Polio, ≥1 MMR, ≥3 Hib, ≥3 HepB, ≥1 Varicella, ≥4 PCV)](#seven)
 - [Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine (DTaP/DT/DTP)](#dtap)
@@ -42,9 +42,9 @@ Types of vaccines:
 - [Human Papillomavirus Vaccine (HPV)](#hpv)
 - [Influenza Vaccine (Flu)](#flu) 
 
-Data variables: 
+### Data variables: 
 
-**AGE_GROUP** (Age cohort)
+**AGE_GROUP** (Age cohort)  
 The NYC Health Department tracks vaccination coverage among NYC children and adolescents in several age cohorts depending on vaccine series. 
 
 - For the combined 7-vaccine series and each component vaccine, the Health Department tracks coverage for children ages 2 years by their second birthday which includes children between the ages of 24 months 0 day and 35 months 30 days as of the coverage assessment date. 
@@ -57,13 +57,13 @@ The numerators include children in the CIR who meet the following criteria:
 - Not documented in CIR as having moved or gone elsewhere: moved out of the city or deceased 
 - Had a valid NYC ZIP code listed in CIR as of the coverage assessment date
 
-**POP_DENOMINATOR** (Denominator)
+**POP_DENOMINATOR** (Denominator)  
 The denominators for routine and seasonal influenza vaccination coverage estimates are based on the most recent denominators available. The NYC Health Department produces these estimates (called Vintage) using data from the U.S. Census Bureau and the NYC Department of City Planning. When new Vintage population estimates are released, vaccination coverage rates on the Childhood Vaccination Data page are adjusted accordingly using the same numerators and the new population estimates. Vaccination data using previous estimates are archived.  
 
-**PERC_VAC** (Vaccination Rate)
+**PERC_VAC** (Vaccination Rate)  
 Vaccination coverage is determined by taking COUNT_PEOPLE_VAC divided by POP_DENOMINATOR. Vaccination coverage exceeding 99% are capped at 99%. Vaccination coverage with numerators less than 10 (9 or fewer) are suppressed due to small numbers. Vaccination coverage with denominators of 10 to 49 should be interpreted with caution due to small population estimates. This may happen with small demographic and geographies categories. 
 
-**VACCINE_GROUP** (Vaccine Groups) 
+**VACCINE_GROUP** (Vaccine Groups)   
 
 <span id="seven"></span>
 Childhood Combined 7-Vaccine Series (≥4 DTaP, ≥3 Polio, ≥1 MMR, ≥3 Hib, ≥3 HepB, ≥1 Varicella, ≥4 PCV)
@@ -140,10 +140,10 @@ Influenza Vaccine (Flu)
 ## Demographic Variables 
 A large proportion of the vaccination data reported to the CIR come from proprietary health care provider electronic health records (EHR) systems that are not managed by the NYC Health Department. Data in the CIR are limited to what is available in EHR systems and to the fields required for submission. Information on demographics, such as race and ethnicity can be incomplete.  
 
-**RACE_ETHNICITY** (Race and Ethnicity)
+**RACE_ETHNICITY** (Race and Ethnicity)  
 The CIR collects race and Hispanic/Latino ethnicity separately. For determining vaccination coverages for the NYC population in this data repository, CIR combines and classifies the proportion of people vaccinated by race/ethnicity into the following mutually exclusive categories: Asian, Black/African American, Hispanic/Latino, and White. The Hispanic/Latino category includes people of any race, and all other categories exclude those who identify as Hispanic/Latino. Disaggregated information on vaccinations among people identified as American Indian/Alaska Native, Native Hawaiian or other Pacific Islander (NHPI), and two or more races are provided only as counts due to small numbers and population estimates for these groups. Race/ethnicity coverage data should be interpreted with caution when comparing to citywide coverage rates. 
 
-**MODZCTA** (ZIP Codes and ZIP Code Tabulation Areas (ZCTAs))
+**MODZCTA** (ZIP Codes and ZIP Code Tabulation Areas)  
 We report information by geography using modified ZIP Code Tabulation Areas (MODZCTA) based on the ZIP code of residence reported by the vaccine recipient at the time of vaccination. A ZIP code does not refer to a specific area, but rather a collection of addresses that make up a mail delivery route. To represent the area that the route is in, the U.S. Census Bureau developed ZIP Code Tabulation Areas (ZCTAs). In ZCTAs, some ZIP Codes are bundled together into a single ZCTA. 
 
 Modified ZCTA (modZCTA) is a geographic unit used to analyze health data. ZCTAs with small populations are combined into Modified ZCTAs to allow for stable rate calculations by increasing the underlying population of these areas. See [Modified ZIP Code Tabulation Areas NYC webpage](https://nychealth.github.io/covid-maps/modzcta-geo/about.html) to identify in which MODZCTA a ZIP code is. 
