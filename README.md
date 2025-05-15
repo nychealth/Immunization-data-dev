@@ -151,6 +151,10 @@ Modified ZCTA (modZCTA) is a geographic unit used to analyze health data. ZCTAs 
 The number of people vaccinated in some neighborhoods may exceed the estimated population. The percentage of people vaccinated is calculated using intercensal population estimates from the most recent population estimates developed by the U.S. Census Bureau. When new yearly population estimates are released each year, geographic vaccination coverage will be adjusted accordingly using the same numerators and the new population estimates. Vaccination rates using previous population estimates will be archived.  
 
 Additional factors contributing to these inconsistencies may be that self-reported ZIP code at the time of vaccination may not correspond to the recipient’s primary home address. For example, people may use their school dormitory or work address. Individuals whose addresses are not valid and, therefore, cannot be mapped to a MODZCTA are not included in the maps or data download.  
+## Suggested Citation 
+New York City Department of Health and Mental Hygiene. Childhood Vaccination Data. Data as of [VERSION DATE]. Accessed at [LINK] on [ACCESS DATE]. <br>   
+**Example** <br>
+New York City Department of Health and Mental Hygiene. Childhood Vaccination Data. Data as of December 2024. Accessed at https://www.nyc.gov/site/doh/misc/sdah-boi-dashboard.page on June 1 2025. 
 
 ## Repository Contents 
 
