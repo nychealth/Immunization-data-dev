@@ -1,5 +1,7 @@
 This folder contains vaccination data stratified by demographic types. 
 
+Vaccination coverages with numerators COUNT_PEOPLE_VAC less than 10 (9 or fewer) are suppressed and not shown due to small numbers. Vaccination coverages with denominators less than 50 should be interpreted with caution due to small population estimates. 
+
 *main_routine_vaccine_demographic.csv*
 
 Variables include: 
