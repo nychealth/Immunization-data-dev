@@ -2,7 +2,7 @@ This folder contains vaccination data stratified by geographic types.
 
 Vaccination coverages with numerators COUNT_PEOPLE_VAC less than 10 (9 or fewer) are suppressed and not shown due to small numbers. Vaccination coverages with denominators less than 50 should be interpreted with caution due to small population estimates. 
 
-*main_routine_vaccine_geographic.csv*
+*Main_Routine_Vaccine_Geo.csv*
 
 Variables include: 
 
@@ -14,7 +14,7 @@ DOB RANGE | Date of birth range of cohort
 VACCINE_GROUP | Vaccine group 
 DOSES | Number of doses 
 YEAR_COVERAGE | Year of vaccination coverage  
-QUARTER | Quarter of vaccination coverage 
+QUARTER | Quarter of vaccination coverage in calendar year
 BOROUGH | Name of borough 
 MODZCTA | Modified ZCTA (ZIP Code Tabulation Area, which solidifies Zip codes into units of area) 
 LABEL | List of the ZIP Code Tabulation Areas (ZCTAs) that are bundled into the MODZCTA 
