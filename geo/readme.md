@@ -10,13 +10,13 @@ Variables include:
 |---|---|
 DATE_CREATED | Date of data retrieved from the CIR 
 AGE_GROUP | Age group 
-DOB RANGE | Date of birth range of cohort 
+DOB RANGE | Date of birth range of the cohort 
 VACCINE_GROUP | Vaccine series 
 DOSES | Number of doses 
 YEAR_COVERAGE | Year of vaccination coverage  
 QUARTER | Quarter of vaccination coverage, in calendar year
 BOROUGH | Name of borough 
-MODZCTA | Modified ZCTA (ZIP Code Tabulation Area, which solidifies Zip codes into units of area) 
+MODZCTA | Modified ZCTA (ZIP Code Tabulation Area, which solidifies ZIP codes into units of area) 
 LABEL | List of the ZIP Code Tabulation Areas (ZCTAs) that are bundled into the MODZCTA 
 NEIGHBORHOOD_NAME | Neighborhood name of the MODZCTA 
 POP_DENOMINATOR_YEAR | Year of population estimates 
