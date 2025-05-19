@@ -2,19 +2,19 @@ This folder contains vaccination data stratified by demographic types.
 
 Vaccination coverages with numerators COUNT_PEOPLE_VAC less than 10 (9 or fewer) are suppressed and not shown due to small numbers. Vaccination coverages with denominators less than 50 should be interpreted with caution due to small population estimates. 
 
-*main_routine_vaccine_demographic.csv*
+*Main_Routine_Vaccine_Demo.csv*
 
 Variables include: 
 
 |Variable Name | Definition |
 |---|---|
-DATE_CREATED | Data of data retrieved from the CIR
+DATE_CREATED | Date of data retrieved from the CIR
 AGE_GROUP |Age group 
-DOB_RANGE |Date of birth range of cohort 
-VACCINE_GROUP |Vaccine group 
+DOB_RANGE |Date of birth range of the cohort 
+VACCINE_GROUP |Vaccine series 
 DOSES |Number of doses 
 YEAR_COVERAGE |Year of vaccination coverage  
-QUARTER |Quarter of vaccination coverage 
+QUARTER |Quarter of vaccination coverage, in calendar year
 RACE_ETHNICITY |Race and ethnicity 
 POP_DENOMINATOR_YEAR |Year of population estimates 
 POP_DENOMINATOR |Population estimates, denominator for vaccination coverage 
