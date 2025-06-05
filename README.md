@@ -153,10 +153,10 @@ New York City Department of Health and Mental Hygiene. Childhood Vaccination Dat
 
 ## Repository Contents 
 
-**demographic /**
+**demographic/**
 This folder contains vaccination data stratified by demographic types. 
 
-**geographic /**
+**geographic/**
 This folder contains vaccination data stratified by geographic types. 
 
 **visualizations/**
