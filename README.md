@@ -150,6 +150,7 @@ The number of people vaccinated in some neighborhoods may exceed the estimated p
 Additional factors contributing to these inconsistencies may be that self-reported ZIP code at the time of vaccination may not correspond to the recipient’s primary home address. For example, people may use their school dormitory or work address. Individuals whose addresses are not valid and, therefore, cannot be mapped to a MODZCTA are not included in the maps or data download.  
 ## Suggested Citation 
 New York City Department of Health and Mental Hygiene. Childhood Vaccination Data. Data as of [VERSION DATE]. Accessed at [LINK] on [ACCESS DATE]. <br>   
+Example: New York City Department of Health and Mental Hygiene. Childhood Vaccination Data. Data as of December 2024. Accessed at [LINK] on June 5, 2025. <br>   
 
 ## Repository Contents 
 
