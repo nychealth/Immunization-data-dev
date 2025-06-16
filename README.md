@@ -42,10 +42,10 @@ The numerators include children in the CIR who meet the following criteria:
 - Not documented in the CIR as having moved out of NYC or deceased 
 - Had a valid NYC ZIP code listed in the CIR as of the coverage assessment date
 
-Historical data of years 2017 to 2024 were pulled from the CIR on May 16, 2025. New data are pulled from the CIR one to two months after the coverage assessment date.
+Historical data for years 2017 to 2024 were pulled from the CIR on May 16, 2025. New data are pulled from the CIR one to two months after the coverage assessment date.
 
 **Denominator** (POP_DENOMINATOR)  
-The denominators for routine vaccination coverage and seasonal influenza vaccination coverage estimates are based on the most recent denominators (population estimates) available at the NYC Health Department. The NYC Health Department produces these estimates (called Vintage estimates) using data from the U.S. Census Bureau and the NYC Department of City Planning. The Vintage year is the year the estimates were produced and usually with one year lag in the population estimate year. For example, Vintage 2022 includes population estimates for years 2000 to 2021. 
+The denominators for routine vaccination coverage and seasonal influenza vaccination coverage calculations are based on the most recent population estimates available at the NYC Health Department. The NYC Health Department produces these estimates (called Vintage estimates) using data from the U.S. Census Bureau and the NYC Department of City Planning. The Vintage year is the year the estimates were produced and usually with one year lag in the population estimate year. For example, Vintage 2022 includes population estimates for years 2000 to 2021. 
 
 On the Childhood Vaccination Data page, the denominators for historical data of years 2017 to 2019 use the respective population estimates from Vintage 2022. The denominators for historical data of years 2020 to 2023 use the respective population estimates from NYC Health Department Vintage 2024. The denominators for year 2024 use the most recent 2023 population estimates from NYC Health Department Vintage 2024. The denominator used for coverage calculations in the most recent year is based on the latest available population estimate. For details of the source of the denominators, see the two main datasets under [Repository Contents](#contents). 
 
