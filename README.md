@@ -74,47 +74,47 @@ Childhood Combined 7-Vaccine Series (≥4 DTaP, ≥3 Polio, ≥1 MMR, ≥3 Hib, 
 <span id="dtap"></span>
 Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine (DTaP/DT/DTP) 
   
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who have received four or more doses of DTaP vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who have received four or more doses of DTaP vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
 
 <span id="polio"></span>
 Poliovirus Vaccine (Polio) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received three or more doses of inactivated polio vaccine (IPV) by their second birthday according to the CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received three or more doses of inactivated polio vaccine (IPV) by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
 
 <span id="mmr"></span>
 Measles-Mumps-Rubella Vaccine (MMR) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received one or more doses of MMR vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates.
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received one or more doses of MMR vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates.
 
 <span id="hib"></span>
 *Haemophilus Influenzae* Type b Vaccine (Hib) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received all recommended doses of Hib vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. The number of recommended doses of Hib vaccine varies based on the vaccine product (either 3 or 4 doses to complete the series).
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received all recommended doses of Hib vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. The number of recommended doses of Hib vaccine varies based on the vaccine product (either 3 or 4 doses to complete the series).
 
 <span id="hepb"></span>
 Hepatitis B Vaccine (HepB) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received three doses of HepB vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received three doses of HepB vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
 
 <span id="var"></span>
 Varicella (chickenpox) Vaccine (VAR) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received one or more doses of varicella vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. 
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received one or more doses of varicella vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
 
 <span id="pcv"></span>
 Pneumococcal Conjugate Vaccine (PCV) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received all recommended doses of PCV by their second birthday according to the CIR, by the total number of same-aged children in that year according to the most recent Vintage Population estimates. 
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received all recommended doses of PCV by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage Population estimates. 
 
 <span id="hpv"></span>
 Human Papillomavirus Vaccine (HPV) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 13- to 17-year-olds who received all recommended doses of HPV vaccine according to the CIR, by the total number of same-aged adolescents in that year according to the most recent Vintage Population estimates. On-time vaccination is calculated by dividing the number of 13-year-olds who completed the HPV vaccine series by their 13th birthday according to the CIR, by the total number of 13-year-olds in that year according to the most recent Vintage Population estimates.  
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 13- to 17-year-olds who received all recommended doses of HPV vaccine according to the CIR, by the total number of same-aged adolescents in that year according to the most recent Vintage Population estimates. On-time vaccination is calculated by dividing the number of 13-year-olds who completed the HPV vaccine series by their 13th birthday according to the CIR, by the total number of 13-year-olds in that year according to the Vintage Population estimates.  
 
 <span id="flu"></span>
 Influenza Vaccine (Flu) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the total number of children who received at least one seasonal flu vaccine during the target flu season according to the CIR, by the total number of same-aged children in that year according to the most recent Vintage population estimates. Patient age criterion is based on the patient’s age (in days) at the time of the flu vaccination.  
+- Vaccination Tracking: Percent vaccinated is calculated by dividing the total number of children who received at least one seasonal flu vaccine during the target flu season according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. Patient age criterion is based on the patient’s age (in days) at the time of the flu vaccination.  
 
 ## Demographic Variables 
 A large proportion of the vaccination data reported to the CIR come from proprietary health care provider electronic health record (EHR) systems that are not managed by the NYC Health Department. Data in the CIR are limited to what is available in EHR systems and to the fields required for submission. Information on demographics, such as race and ethnicity, can be incomplete.  
