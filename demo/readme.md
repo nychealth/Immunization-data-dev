@@ -15,7 +15,7 @@ VACCINE_GROUP |Vaccine series
 DOSES |Number of doses 
 YEAR_COVERAGE |Year of vaccination coverage  
 QUARTER |Quarter of vaccination coverage, in calendar year
-RACE_ETHNICITY |Race and ethnicity 
+RACE_ETHNICITY |Combined race and ethnicity 
 POP_DENOMINATOR_YEAR |Year of population estimates 
 POP_DENOMINATOR |Population estimates, denominator for vaccination coverage 
 COUNT_PEOPLE_VAC |Number of people who received the number of recommended doses of the vaccine series, numerator for vaccination coverage 
