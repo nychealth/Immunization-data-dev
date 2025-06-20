@@ -1,6 +1,6 @@
 # Childhood Vaccination Data 
 
-This repository contains data on routine immunizations administered to New York City (NYC) children ages 0 to 18 years and reported to the [Citywide Immunization Registry](https://www.nyc.gov/site/doh/providers/reporting-and-services/citywide-immunization-registry-cir.page) (CIR). These data are available on the NYC Health Department’s [Childhood Vaccination Data](https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page) page.
+This repository contains data on routine immunizations administered to New York City (NYC) children ages 0 to 18 years and reported to the [Citywide Immunization Registry](https://www.nyc.gov/site/doh/providers/reporting-and-services/citywide-immunization-registry-cir.page) (CIR). These data are available on the NYC Health Department’s [Childhood Vaccination Data Explorer](https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page).
 
 **This Readme includes the following topics:**
 
@@ -11,7 +11,7 @@ This repository contains data on routine immunizations administered to New York 
 
 ## How to Use This Repository   
 
-Two main datasets serve as the data sources for all the visualizations displayed on the Childhood Vaccination Data page on the NYC Health webpage. One dataset is stratified by individual demographics (race and ethnicity) and the other by geography (ZIP code). They contain data since 2017. Users can download a separate dataset for each visualization by clicking ‘Get the data’ under the visualization or by downloading the full dataset under [Repository Contents](#contents).
+Two main datasets serve as the data sources for all the visualizations displayed on the Childhood Vaccination Data Explorer on the NYC Health webpage. One dataset is stratified by individual demographics (race and ethnicity) and the other by geography (ZIP code). They contain data since 2017. Users can download a separate dataset for each visualization by clicking ‘Get the data’ under the visualization or by downloading the full dataset under [Repository Contents](#contents).
 
 ## Key Technical Notes 
 
