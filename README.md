@@ -63,7 +63,7 @@ Vaccination coverage is determined by taking the numerator (COUNT_PEOPLE_VAC) di
 - [Pneumococcal Conjugate Vaccine (PCV)](#pcv) 
 - [Human Papillomavirus Vaccine (HPV)](#hpv)
 - [Influenza Vaccine (Flu)](#flu) 
-<br>
+
 <span id="seven"></span>
 Childhood Combined 7-Vaccine Series (≥4 DTaP, ≥3 Polio, ≥1 MMR, ≥3 Hib, ≥3 HepB, ≥1 Varicella, ≥4 PCV)
 
