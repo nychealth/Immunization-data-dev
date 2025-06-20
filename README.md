@@ -147,4 +147,5 @@ This folder contains separate datasets for each visualization on the NYC Health 
 
 **Suggested Citation**<br> 
 New York City Department of Health and Mental Hygiene. Childhood Vaccination Data Explorer. Accessed at https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page on [ACCESS DATE]. <br>   
-Example: New York City Department of Health and Mental Hygiene. Childhood Vaccination Data Explorer. Accessed at https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page on July 1, 2025. <br>   
+Example: <br>
+New York City Department of Health and Mental Hygiene. Childhood Vaccination Data Explorer. Accessed at https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page on July 1, 2025. <br>   
