@@ -17,13 +17,13 @@ Two main datasets serve as the data sources for all the visualizations displayed
 
 **Citywide Immunization Registry**
 
-Since 1996, the [Citywide Immunization Registry](https://www.nyc.gov/site/doh/providers/reporting-and-services/citywide-immunization-registry-cir.page) (CIR) has been used as a database of patient immunization records reported by NYC health care providers and some out-of-state immunization information systems. The CIR keeps immunization records for NYC residents — children and adults — throughout their lifespan and has records for non-NYC residents vaccinated in the city. It is accessible to authorized health care providers, schools, individuals, and agencies concerned with public health to ensure that NYC residents are up to date with recommended immunizations. 
+Since 1996, the [Citywide Immunization Registry](https://www.nyc.gov/site/doh/providers/reporting-and-services/citywide-immunization-registry-cir.page) (CIR) has been used as a database of patient immunization records reported by NYC health care providers and some out-of-state immunization information systems. The CIR keeps immunization records for NYC residents — children and adults — throughout their lifespan and has records for non-NYC residents vaccinated in the city. It is accessible to authorized health care providers, schools, and agencies concerned with public health to ensure that NYC residents are up to date with recommended immunizations. 
 
-NYC health care providers report immunizations to the CIR as required by New York State Public Health Law and the NYC Health Code. Providers are required to report all immunizations administered to children ages 0 to 18 years. Reporting of adult immunizations requires patient consent. Immunization data are submitted to the CIR through electronic health record systems or the [CIR’s Online Registry](https://immunize.nyc/prod/online-registry/) user interface.
+NYC health care providers report immunizations to the CIR as required by New York State Public Health Law and the NYC Health Code. Providers are required to report all immunizations administered to children ages 0 to 18 years. Reporting of immunizations for people ages 19 and older requires patient consent. Immunization data are submitted to the CIR through electronic health record systems or the [CIR’s Online Registry](https://immunize.nyc/prod/online-registry/) user interface.
 
-**Childhood Vaccination Data Update Schedule**
+**Childhood Vaccination Data Explorer Update Schedule**
 
-Data presented on the Childhood Vaccination Data page are assessed twice a year, on June 30 and December 31 of each year. Data are released a few months after the coverage assessment date to allow enough time for data to be reported to the CIR and prepared for public sharing. 
+Data presented on the Childhood Vaccination Data Explorer are assessed twice a year, on June 30 and December 31 of each year. Data are released a few months after the coverage assessment date to allow enough time for data to be reported to the CIR and prepared for public sharing. 
 
 Data are preliminary and subject to change when new population estimates are published. 
 
@@ -32,9 +32,9 @@ Data are preliminary and subject to change when new population estimates are pub
 **Age cohort**  (AGE_GROUP) <br>
 The NYC Health Department tracks vaccination coverage among NYC children and adolescents in several age cohorts depending on vaccine series. 
 
-- For the combined 7-vaccine series and each component vaccine, the Health Department tracks coverage for children 2 years of age by their second birthday. This includes children between the ages of 24 months, 0 days, and 35 months, 30 days, as of the coverage assessment date. 
-- For HPV, the Health Department tracks HPV series completion rates for 13-year-olds by their 13th birthday to monitor on-time vaccination at ages 11 to 12 years, and completion rates for adolescents ages 13 to 17 years. Adolescents ages 13 years include adolescents between the ages of 13 years, 0 days, and 13 years, 11 months, 30 days, as of the coverage assessment date. Adolescents ages 13 to 17 years include adolescents between the ages of 13 years, 0 days, and 17 years, 11 months, 30 days, as of the coverage assessment date.
-- For influenza (flu) vaccination, the Health Department tracks coverage for children ages 6 months to 4 years, 5 to 12 years and 13 to 17 years. Since the influenza season spans multiple months, the age criterion for the analysis is based on the child’s age (in days) at the time of the flu vaccination. The CIR calculates a child’s age days by subtracting the child’s date of birth from the flu vaccination date. This includes children between the ages of 182 and 1,825 days (for the 6-month to 4-year-old cohort), between the ages of 1,826 and 4,747 days (for the 5-to–12-year-old cohort), and between the ages of 4,748 and 6,573 days (for the 13-to-17-year-old cohort) as of the coverage assessment date.
+- For the combined 7-vaccine series and each component vaccine, NYC Health Department tracks coverage for children 2 years of age by their second birthday. This includes children between the ages of 24 months, 0 days, and 35 months, 30 days, as of the coverage assessment date. 
+- For HPV, NYC Health Department tracks HPV series completion rates for 13-year-olds by their 13th birthday to monitor on-time vaccination at ages 11 to 12 years, and completion rates for adolescents ages 13 to 17 years. Adolescents ages 13 years include adolescents between the ages of 13 years, 0 days, and 13 years, 11 months, 30 days, as of the coverage assessment date. Adolescents ages 13 to 17 years include adolescents between the ages of 13 years, 0 days, and 17 years, 11 months, 30 days, as of the coverage assessment date.
+- For influenza (flu) vaccination, NYC Health Department tracks coverage for children ages 6 months to 4 years, 5 to 12 years and 13 to 17 years. Since the influenza season spans multiple months, the age criterion for the analysis is based on the child’s age (in days) at the time of the flu vaccination. The CIR calculates a child’s age days by subtracting the child’s date of birth from the flu vaccination date. This includes children between the ages of 182 and 1,825 days (for the 6-month to 4-year-old cohort), between the ages of 1,826 and 4,747 days (for the 5-to–12-year-old cohort), and between the ages of 4,748 and 6,573 days (for the 13-to-17-year-old cohort) as of the coverage assessment date.
 
 **Numerator** (COUNT_PEOPLE_VAC)  
 The numerators include children in the CIR who meet the following criteria: 
@@ -47,7 +47,7 @@ Historical data for years 2017 to 2024 were pulled from the CIR on May 16, 2025.
 **Denominator** (POP_DENOMINATOR)  
 The denominators for routine vaccination coverage and seasonal influenza vaccination coverage calculations are based on the most recent population estimates available at the NYC Health Department. The NYC Health Department produces these estimates (called Vintage estimates) using data from the U.S. Census Bureau and the NYC Department of City Planning. The Vintage year is the year the estimates were produced and usually with one year lag in the population estimate year. For example, Vintage 2022 includes population estimates for years 2000 to 2021. 
 
-On the Childhood Vaccination Data page, the denominators for the historical data from years 2017 to 2019 use the respective population estimates from Vintage 2022. The denominators for the historical data from years 2020 to 2023 use the respective population estimates from NYC Health Department Vintage 2024. The denominators for year 2024 use the most recent 2023 population estimates from NYC Health Department Vintage 2024. The denominator used for coverage calculations in the most recent year is based on the latest available population estimate. For details on the source of the denominators, see the two main datasets under [Repository Contents](#contents). 
+On the Childhood Vaccination Data Explorer, the denominators for the historical data from years 2017 to 2019 use the respective population estimates from Vintage 2022. The denominators for the historical data from years 2020 to 2023 use the respective population estimates from NYC Health Department Vintage 2024. The denominators for year 2024 use the most recent 2023 population estimates from NYC Health Department Vintage 2024. The denominator used for coverage calculations in the most recent year is based on the latest available population estimate. For details on the source of the denominators, see the two main datasets under [Repository Contents](#contents). 
 
 **Vaccination Coverage** (PERC_VAC)  
 Vaccination coverage is determined by taking the numerator (COUNT_PEOPLE_VAC) divided by the denominator (POP_DENOMINATOR). Vaccination coverages exceeding 99% are capped at 99%. Vaccination coverages with numerators less than 10 (9 or fewer) are suppressed due to small numbers. Vaccination coverages with denominators less than 50 should be interpreted with caution due to small population estimates. This may happen with small demographic and geographic categories. 
@@ -67,54 +67,56 @@ Vaccination coverage is determined by taking the numerator (COUNT_PEOPLE_VAC) di
 <span id="seven"></span>
 Childhood Combined 7-Vaccine Series (≥4 DTaP, ≥3 Polio, ≥1 MMR, ≥3 Hib, ≥3 HepB, ≥1 Varicella, ≥4 PCV)
 
-- The combined 7-vaccine series (also known as the 4:3:1:3:3:1:4 series) measures the percentage of children ages 2 years who received all recommended doses in the series by their second birthday. 
+- The combined 7-vaccine series (also known as the 4:3:1:3:3:1:4 series) shows completion of recommended doses of 7 different vaccines and serves as a measure to assess overall coverage of routine vaccination for 2-year-olds.
 
-- The series includes ≥4 doses of diphtheria and tetanus toxoids and acellular pertussis vaccine; ≥3 doses of poliovirus vaccine; ≥1 dose of measles-mumps-rubella vaccine; ≥3 or ≥4 doses of *Haemophilus Influenzae* Type b vaccine (depending on product type); ≥3 doses of hepatitis B vaccine; ≥1 dose of varicella vaccine; and ≥4 doses of pneumococcal conjugate vaccine.  
+- Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received all recommended doses in the combination series by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates.
+
+- The combination series includes ≥4 doses of diphtheria and tetanus toxoids and acellular pertussis vaccine; ≥3 doses of poliovirus vaccine; ≥1 dose of measles-mumps-rubella vaccine; ≥3 or ≥4 doses of *Haemophilus Influenzae* Type b vaccine (depending on product type); ≥3 doses of hepatitis B vaccine; ≥1 dose of varicella vaccine; and ≥4 doses of pneumococcal conjugate vaccine.  
 
 <span id="dtap"></span>
 Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine (DTaP/DT/DTP) 
   
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who have received four or more doses of DTaP vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
+- Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received four or more doses of DTaP vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
 
 <span id="polio"></span>
 Poliovirus Vaccine (Polio) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received three or more doses of inactivated polio vaccine (IPV) by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
+- Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received three or more doses of inactivated polio vaccine (IPV) by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
 
 <span id="mmr"></span>
 Measles-Mumps-Rubella Vaccine (MMR) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received one or more doses of MMR vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates.
+- Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received one or more doses of MMR vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates.
 
 <span id="hib"></span>
 *Haemophilus Influenzae* Type b Vaccine (Hib) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received all recommended doses of Hib vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. The number of recommended doses of Hib vaccine varies based on the vaccine product (either 3 or 4 doses to complete the series).
+- Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received all recommended doses of Hib vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. The number of recommended doses of Hib vaccine varies based on the vaccine product (either 3 or 4 doses to complete the series).
 
 <span id="hepb"></span>
 Hepatitis B Vaccine (HepB) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received three doses of HepB vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
+- Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received three doses of HepB vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
 
 <span id="var"></span>
 Varicella (chickenpox) Vaccine (VAR) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received one or more doses of varicella vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
+- Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received one or more doses of varicella vaccine by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. 
 
 <span id="pcv"></span>
 Pneumococcal Conjugate Vaccine (PCV) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received all recommended doses of PCV by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage Population estimates. 
+- Percent vaccinated is calculated by dividing the number of 24- to 35-month-olds who received all recommended doses of PCV by their second birthday according to the CIR, by the total number of same-aged children in that year according to the Vintage Population estimates. 
 
 <span id="hpv"></span>
 Human Papillomavirus Vaccine (HPV) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the number of 13- to 17-year-olds who received all recommended doses of HPV vaccine according to the CIR, by the total number of same-aged adolescents in that year according to the Vintage Population estimates. On-time vaccination is calculated by dividing the number of 13-year-olds who completed the HPV vaccine series by their 13th birthday according to the CIR, by the total number of 13-year-olds in that year according to the Vintage Population estimates.  
+- Percent vaccinated is calculated by dividing the number of 13- to 17-year-olds who received all recommended doses of HPV vaccine according to the CIR, by the total number of same-aged adolescents in that year according to the Vintage Population estimates. On-time vaccination is calculated by dividing the number of 13-year-olds who completed the HPV vaccine series by their 13th birthday according to the CIR, by the total number of 13-year-olds in that year according to the Vintage Population estimates.  
 
 <span id="flu"></span>
 Influenza Vaccine (Flu) 
 
-- Vaccination Tracking: Percent vaccinated is calculated by dividing the total number of children who received at least one seasonal flu vaccine during the target flu season according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. Patient age criterion is based on the patient’s age (in days) at the time of the flu vaccination.  
+- Percent vaccinated is calculated by dividing the total number of children who received at least one seasonal flu vaccine during the target flu season according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. Patient age criterion is based on the patient’s age (in days) at the time of the flu vaccination.  
 
 ## Demographic Variables 
 A large proportion of the vaccination data reported to the CIR come from proprietary health care provider electronic health record (EHR) systems that are not managed by the NYC Health Department. Data in the CIR are limited to what is available in EHR systems and to the fields required for submission. Information on demographics, such as race and ethnicity, can be incomplete.  
@@ -131,8 +133,8 @@ The number of people vaccinated in some neighborhoods may exceed the estimated p
 
 Additional factors contributing to these inconsistencies may be that self-reported ZIP code at the time of vaccination may not correspond to the recipient’s primary home address. For example, people may use their school dormitory or work address. Individuals whose addresses are not valid and, therefore, cannot be mapped to a MODZCTA are not included in the maps or data download.  
 ## Suggested Citation 
-New York City Department of Health and Mental Hygiene. Childhood Vaccination Data. Accessed at https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page on [ACCESS DATE]. <br>   
-Example: New York City Department of Health and Mental Hygiene. Childhood Vaccination Data. Accessed at https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page on July 5, 2025. <br>   
+New York City Department of Health and Mental Hygiene. Childhood Vaccination Data Explorer. Accessed at https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page on [ACCESS DATE]. <br>   
+Example: New York City Department of Health and Mental Hygiene. Childhood Vaccination Data Explorer. Accessed at https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page on July 1, 2025. <br>   
 
 <span id="contents"></span>
 ## Repository Contents 
@@ -144,4 +146,4 @@ This folder contains vaccination data stratified by demographic types.
 This folder contains vaccination data stratified by geographic types. 
 
 **visualizations/**
-This folder contains separate datasets for each visualization on the NYC Health Department's Childhood Vaccination Data page.
+This folder contains separate datasets for each visualization on the NYC Health Department's Childhood Vaccination Data Explorer.
