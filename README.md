@@ -131,9 +131,6 @@ Modified ZCTA (MODZCTA) is a geographic unit used to analyze health data. ZCTAs 
 The number of people vaccinated in some neighborhoods may exceed the estimated population. The percentage of people vaccinated is calculated using intercensal population estimates from the most recent population estimates produced by the NYC Health Department. When new yearly population estimates are released each year, vaccination coverage by geography will be adjusted accordingly using the same numerators and the new population estimates. Vaccination coverages using previous population estimates are archived.  
 
 Additional factors contributing to these inconsistencies may be that self-reported ZIP code at the time of vaccination may not correspond to the recipient’s primary home address. For example, people may use their school dormitory or work address. Individuals whose addresses are not valid and, therefore, cannot be mapped to a MODZCTA are not included in the maps or data download.  
-## Suggested Citation 
-New York City Department of Health and Mental Hygiene. Childhood Vaccination Data Explorer. Accessed at https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page on [ACCESS DATE]. <br>   
-Example: New York City Department of Health and Mental Hygiene. Childhood Vaccination Data Explorer. Accessed at https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page on July 1, 2025. <br>   
 
 <span id="contents"></span>
 ## Repository Contents 
@@ -146,3 +143,8 @@ This folder contains vaccination data stratified by geographic types.
 
 **visualizations/**
 This folder contains separate datasets for each visualization on the NYC Health Department's Childhood Vaccination Data Explorer.
+
+**Suggested Citation** 
+New York City Department of Health and Mental Hygiene. Childhood Vaccination Data Explorer. Accessed at https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page on [ACCESS DATE]. <br>   
+Example: New York City Department of Health and Mental Hygiene. Childhood Vaccination Data Explorer. Accessed at https://www.nyc.gov/site/doh/data/data-sets/childhood-vaccination-data.page on July 1, 2025. <br>   
+
