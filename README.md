@@ -118,10 +118,8 @@ Influenza Vaccine (Flu)
 
 - Percent vaccinated is calculated by dividing the total number of children who received at least one seasonal flu vaccine during the target flu season according to the CIR, by the total number of same-aged children in that year according to the Vintage population estimates. Patient age criterion is based on the patient’s age (in days) at the time of the flu vaccination.  
 
-## Demographic Variables 
-A large proportion of the vaccination data reported to the CIR come from proprietary health care provider electronic health record (EHR) systems that are not managed by the NYC Health Department. Data in the CIR are limited to what is available in EHR systems and to the fields required for submission. Information on demographics, such as race and ethnicity, can be incomplete.  
-
 **Race and Ethnicity** (RACE_ETHNICITY)  
+A large proportion of the vaccination data reported to the CIR come from proprietary health care provider electronic health record (EHR) systems that are not managed by the NYC Health Department. Data in the CIR are limited to what is available in EHR systems and to the fields required for submission. Information on demographics, such as race and ethnicity, can be incomplete.  
 The CIR collects race and Hispanic/Latino ethnicity separately. For determining vaccination coverages for the NYC population in this data repository, CIR combines and classifies the proportion of people vaccinated by race/ethnicity into the following mutually exclusive categories: Asian, Black/African American, Hispanic/Latino, and White. The Hispanic/Latino category includes people of any race, and all other categories exclude those who identify as Hispanic/Latino. Disaggregated information on vaccinations among people identified as American Indian/Alaska Native, Native Hawaiian or other Pacific Islander, and two or more races are provided only as counts due to smaller numbers for these groups. Race/ethnicity coverage data should be interpreted with caution when comparing to citywide coverage. 
 
 **ZIP Codes** (MODZCTA)  
