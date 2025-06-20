@@ -10,7 +10,7 @@ Variables include:
 |---|---|
 DATE_CREATED | Date of data retrieved from the CIR
 AGE_GROUP |Age group 
-DOB_RANGE |Date of birth range of the cohort 
+DOB_RANGE |Date of birth range for cohort population estimates 
 VACCINE_GROUP |Vaccine series 
 DOSES |Number of doses 
 YEAR_COVERAGE |Year of vaccination coverage  
