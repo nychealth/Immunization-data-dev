@@ -1,0 +1,7 @@
+"VACCINE_GROUP","YEAR_COVERAGE","QUARTER","AGE_GROUP","DOSES","BOROUGH","PERC_VAC"
+"HPV",2023,"Q2","9 - 10 years",1,"Citywide",10
+"HPV",2023,"Q2","9 - 10 years",1,"Bronx",20
+"HPV",2023,"Q2","9 - 10 years",1,"Brooklyn",7
+"HPV",2023,"Q2","9 - 10 years",1,"Manhattan",9
+"HPV",2023,"Q2","9 - 10 years",1,"Queens",9
+"HPV",2023,"Q2","9 - 10 years",1,"Staten Island",3
