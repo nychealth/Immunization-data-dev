@@ -1,7 +1,7 @@
-"VACCINE_GROUP","YEAR_COVERAGE","QUARTER","AGE_GROUP","DOSES","BOROUGH","PERC_VAC"
-"HPV",2024,"Q2","13 - 17 years","2 or 3","Citywide",75
-"HPV",2024,"Q2","13 - 17 years","2 or 3","Bronx",91
-"HPV",2024,"Q2","13 - 17 years","2 or 3","Brooklyn",63
-"HPV",2024,"Q2","13 - 17 years","2 or 3","Manhattan",81
-"HPV",2024,"Q2","13 - 17 years","2 or 3","Queens",83
-"HPV",2024,"Q2","13 - 17 years","2 or 3","Staten Island",43
+"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","DOSES","BOROUGH","PERC_VAC"
+2024,"Q2","13 - 17 years","HPV","2 or 3","Citywide",75
+2024,"Q2","13 - 17 years","HPV","2 or 3","Bronx",91
+2024,"Q2","13 - 17 years","HPV","2 or 3","Brooklyn",63
+2024,"Q2","13 - 17 years","HPV","2 or 3","Manhattan",81
+2024,"Q2","13 - 17 years","HPV","2 or 3","Queens",83
+2024,"Q2","13 - 17 years","HPV","2 or 3","Staten Island",43
